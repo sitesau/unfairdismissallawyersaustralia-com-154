@@ -1,0 +1,22 @@
+{
+  "wheel_id": 688,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-com-154",
+  "project": "unfair-dismissal-lawyers-sydney-questions-to-ask-ed55322bf5d2a3",
+  "parent_t1_ref": "unfairdismissallawyersaustralia.com-006",
+  "node_role": "buffer",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers sydney questions to ask",
+  "intended_url": "https://sites-e470-2.web.app/unfair-dismissal-lawyers-sydney-questions-to-ask-ed55322bf5d2a3/",
+  "tier": "T2",
+  "writeback_nonce": "2ca472ef0b89b40d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/unfair-dismissal-lawyers-sydney/",
+      "anchor": "this unfair dismissal lawyers sydney guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
